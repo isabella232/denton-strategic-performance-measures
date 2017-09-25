@@ -1,0 +1,58 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+#intro {
+ background-color: #4f4380;
+ height: 3rem;
+ width: 100%; 
+}
+
+
+#intro p#intro-text {
+    color: #FFFFFF;
+    font-size: 100px;
+    /**padding-left: 0.6rem;
+    padding-right: 0.6rem;
+    font-size: .75rem;
+    font-weight: 600; */
+}
+
+#dashboard-content {
+    /** margin-top: 140px; **/
+}
+
+.blah1 {
+    position: relative;
+    margin-top: 140px;
+}
+
+.logo-horizontal {
+    height: 1.6em;
+}
+
+.kfa-summary {
+    padding-left: 15px;
+}
+.kfa-summary-goals {
+    padding-left: 50px;
+}
+.kfa-summary-goals.goal-heading {
+    font-weight: bold;
+}
+.pad-left-standard {
+    /** padding-left: 20px; **/
+}
+
+.navbar-link {
+    height: 1.6em;
+}
+
+.kfa-summary-details h4 {
+    color: 		#eeac01;
+}
+.kfa-photo-container {
+    padding-top: 2em;
+    padding-right: 1em;
+}
